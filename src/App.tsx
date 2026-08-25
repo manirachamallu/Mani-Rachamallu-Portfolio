@@ -96,7 +96,7 @@ function App() {
         <div className="section-kicker"><span>01</span><span>About me</span><span className="line" /></div>
         <div className="about-layout">
           <div className="portrait-wrap">
-            <div className="portrait-frame"><img src="\mani.jpeg" alt="Mani Rachamallu" /></div>
+            <div className="portrait-frame"><img src="/mani.jpeg" alt="Mani Rachamallu" /></div>
             <div className="portrait-caption"><span>Based in</span><strong>India</strong></div>
           </div>
           <div className="about-copy">
