@@ -22,6 +22,10 @@ const skillGroups = [
     items: ['Product Analytics', 'User Behavior Analysis', 'Funnel Analysis', 'A/B Testing', 'Product Metrics', 'UX'],
   },
   {
+    category: 'Ai & Engineering',
+    items: ["FastAPI","LLM Integration","AI-assisted Analytics"],
+  },
+  {
     category: 'Tools',
     items: ['Git', 'GitHub', 'Jupyter Notebook', 'VS Code'],
   },
@@ -34,10 +38,10 @@ const projects = [
     url: 'https://github.com/manirachamallu/Address_Management',
   },
   {
-    title: 'Zepto Sales Analysis',
-    desc: 'Analyzing sales, customers, products, and order performance to identify trends, top products, customer behavior, and key business insights.',
-    tools: ['SQL', 'Python', 'Power BI'],
-    url: 'https://github.com/manirachamallu/Zepto-Sale-Analytics',
+    title: 'InsightAI — AI-Powered Analytics Copilot',
+    desc: 'An AI-powered analytics copilot that converts natural-language business questions into validated SQL queries, interactive visualizations, and actionable business insights from connected databases.',
+    tools: ["FASTAPI","LLM","REACT"],
+    url: 'https://github.com/manirachamallu/InsightAI',
   },
 ];
 
